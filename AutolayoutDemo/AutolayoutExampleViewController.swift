@@ -8,6 +8,7 @@
 
 import UIKit
 
+/// Base class for view controllers in this app
 class AutolayoutExampleViewController: UIViewController {
 
     override func viewWillAppear(_ animated: Bool) {
